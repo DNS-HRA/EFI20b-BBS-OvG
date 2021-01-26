@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13ed6dc7-4def-4932-82d0-44a5992b49c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Discount/.idea/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/.idea/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/embed.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/embed.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/intermediate.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/intermediate.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/Test.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/Test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/Test.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discount/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Discount/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/.idea/OnlineShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/.idea/OnlineShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/embed.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/embed.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/intermediate.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/intermediate.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/OnlineShop.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/OnlineShop.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/OnlineShop.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/ZweiseitigeVerzweigung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/ZweiseitigeVerzweigung.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/embed.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/embed.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/intermediate.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/intermediate.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/ZweiseitigeVerzweigung.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/ZweiseitigeVerzweigung.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/ZweiseitigeVerzweigung/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gzoxvtlj" />
+  </component>
+  <component name="ProjectId" id="1nccSmGHN2Ro3mCR7E5iL1MNXPr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13ed6dc7-4def-4932-82d0-44a5992b49c4" name="Default Changelist" comment="" />
+      <created>1611692822556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611692822556</updated>
+      <workItem from="1611692824074" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611693115277">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/-1920.207.1920.1040@0.0.2048.1112" timestamp="1611693115277" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1611693236943">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/-1920.207.1920.1040@0.0.2048.1112" timestamp="1611693236943" />
+  </component>
+</project>
