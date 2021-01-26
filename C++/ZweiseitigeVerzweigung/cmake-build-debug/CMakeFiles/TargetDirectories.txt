@@ -1,0 +1,3 @@
+C:/Users/germa/CLionProjects/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/ZweiseitigeVerzweigung.dir
+C:/Users/germa/CLionProjects/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/germa/CLionProjects/ZweiseitigeVerzweigung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
