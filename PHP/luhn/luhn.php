@@ -57,7 +57,7 @@ function isValid($digits)
   
    $digits = str_replace(" ","",$digits);
 
-  // Buchstaben entfernen
+  // Remove letters
    $length = strlen($digits);
   //var_dump ($digits);
   for ($i = 0; $i < $length; $i++)
@@ -80,12 +80,12 @@ function isValid($digits)
   
   //$onlynumbers = str_replace(""," ",$onlynumbers);
   
-  // leere Ketten abfangen
+  // intercept empty chains
   $length = strlen($onlynumbers);
   if ($length <= 1) {
     return false;
   }
-  //Prüfsumme
+  //Checksum
   $sum = 0;
   for ($i = 0; $i < $length; $i++)
   {

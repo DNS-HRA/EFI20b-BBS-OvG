@@ -29,24 +29,24 @@ A variation on a famous interview question intended to weed out potential candid
 <?php
 function raindrops ($drops)
 {
-  $ausgabe = "";
+  $output = "";
   
   if ($drops % 3 == 0)
   {
-    $ausgabe.= "Pling";
+    $output.= "Pling";
   }
   if ($drops % 5 == 0)
   {
-    $ausgabe.= "Plang";
+    $output.= "Plang";
   }
   if ($drops % 7 == 0)
   {
-    $ausgabe.= "Plong";
+    $output.= "Plong";
   }
   
-  if ($ausgabe == "")
-   $ausgabe= (string)($drops);
+  if ($output == "")
+   $output= (string)($drops);
   
- return $ausgabe;
+ return $output;
 
 }
