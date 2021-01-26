@@ -9,6 +9,7 @@ int main() {
     // create 3 variables for saving the single resistor
     double r1, r2, r3;
 
+    // get input for all resistors
     std::cout << "Enter Resistor 1: ";
     std::cin >> r1;
 
