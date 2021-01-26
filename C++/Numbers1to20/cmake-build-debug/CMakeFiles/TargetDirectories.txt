@@ -1,0 +1,3 @@
+C:/Users/germa/Documents/BBS_OvG/C++/Numbers1to20/cmake-build-debug/CMakeFiles/Numbers1to20.dir
+C:/Users/germa/Documents/BBS_OvG/C++/Numbers1to20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/germa/Documents/BBS_OvG/C++/Numbers1to20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
