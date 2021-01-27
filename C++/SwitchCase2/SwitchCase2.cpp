@@ -44,7 +44,7 @@ int main()
             break;
 
         default:
-            std::cout << "ERROR";
+            cout << "ERROR";
             break;
     }
 
