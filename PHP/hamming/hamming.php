@@ -42,14 +42,14 @@ function distance(string $strandA, string $strandB) : int
 {
 
   
-  $zaehler=0;
+  $counter=0;
   for ($i=0 ; ($i <strlen($strandA)) AND ($i <strlen($strandB)); $i++){
   if ($strandA[$i]!=$strandB[$i]){
   //$strandA[$i].$strandB[$i]." $i\n"; 
-  $zaehler++;
+  $counter++;
   }
   }
-  return $zaehler;
+  return $counter;
   
   
   

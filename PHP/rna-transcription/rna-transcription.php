@@ -32,22 +32,22 @@ It's possible to submit an incomplete solution so you can see how others have co
     
 <?php
     
-function toRna ($dnastrang){
+function toRna ($dnastrand){
 
-	$rnastrang="";
-	for ($i=0 ; ($i <strlen($dnastrang)); $i++){
-		if ($dnastrang[$i] == "G") {
-			$rnastrang=$rnastrang."C";
+	$rnastrand="";
+	for ($i=0 ; ($i <strlen($dnastrand)); $i++){
+		if ($dnastrand[$i] == "G") {
+			$rnastrand=$rnastrand."C";
 		}
-		if ($dnastrang[$i] == "A"){
-			$rnastrang=$rnastrang."U";
+		if ($dnastrand[$i] == "A"){
+			$rnastrand=$rnastrand."U";
 		}
-		if ($dnastrang[$i] == "C"){
-			$rnastrang=$rnastrang."G";
+		if ($dnastrand[$i] == "C"){
+			$rnastrand=$rnastrand."G";
 		}
-		if ($dnastrang[$i] == "T"){
-			$rnastrang=$rnastrang."A";
+		if ($dnastrand[$i] == "T"){
+			$rnastrand=$rnastrand."A";
 		}
 	}
-	return $rnastrang;
+	return $rnastrand;
 }
